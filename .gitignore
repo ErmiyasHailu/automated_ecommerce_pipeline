@@ -1,0 +1,20 @@
+# Secrets
+.env
+**/.env
+
+# Mac files
+.DS_Store
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw API data
+data/
+
+# Airflow generated files
+airflow/logs/
+airflow/config/
+airflow/airflow.db
